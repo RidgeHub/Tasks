@@ -507,7 +507,10 @@ function attachColDropListeners(){
 function toggleMainTask(cardId){
   const card=cards.find(c=>c.id===cardId);if(!card)return;
   card.taskDone=!card.taskDone;
-  if(card.taskDone){card.col='done';card.movedAt=Date.now();}
+  if(card.taskDone){
+    card.col='done';card.movedAt=Date.now();
+    if(card.calEventId){removeFromGoogleCalendar(card.calEventId);card.calEventId=null;}
+  }
   saveToGitHub();render();
 }
 function toggleSubtask(cardId,idx){
