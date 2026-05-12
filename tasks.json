@@ -1,20 +1,4 @@
 {
-  "cards": [
-    {
-      "id": "mp2rk5m25k54",
-      "col": "done",
-      "proj": "26002",
-      "name": "J Crew Factory",
-      "task": "asdf",
-      "notes": "",
-      "due": "2026-05-13",
-      "priority": "high",
-      "subtasks": [],
-      "taskDone": true,
-      "calEventId": "8tejpd8bs8ne6ql1hiqqmdku1s",
-      "createdAt": 1778598390890,
-      "movedAt": 1778598613427
-    }
-  ],
+  "cards": [],
   "archived": []
 }
