@@ -1,13 +1,13 @@
 [
   {
     "id": "mp2r5d8rwfup",
-    "col": "tasks",
+    "col": "done",
     "proj": "26002",
     "name": "J Crew Factory",
     "task": "ddd",
     "due": "2026-05-30",
     "subtasks": [],
-    "taskDone": false,
+    "taskDone": true,
     "calEventId": "4tma0sfmqe7atc7602b1rg6ts0"
   }
 ]
