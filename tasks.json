@@ -2,17 +2,17 @@
   "cards": [
     {
       "id": "mp3fptyddww",
-      "col": "today",
+      "col": "done",
       "proj": "26001",
       "name": "Chernoff Cosmetics",
       "task": "Review",
       "priority": "high",
       "due": "2026-05-16",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "createdAt": 1778638966501,
-      "movedAt": 1778638966501,
-      "calEventId": "ses98ic1iipgmnso98joujr6co",
+      "movedAt": 1778639211610,
+      "calEventId": null,
       "notes": ""
     },
     {
