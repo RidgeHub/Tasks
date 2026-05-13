@@ -1,22 +1,6 @@
 {
   "cards": [
     {
-      "id": "mp4389v3ydd",
-      "projectId": "mp4389v32re",
-      "col": "tasks",
-      "proj": "26002",
-      "name": "Women's Care Center",
-      "task": "[ProVer] Review Prints & Specs",
-      "group": "ProVer",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1778678458095,
-      "movedAt": 1778678458095
-    },
-    {
       "id": "mp4389v3fo6",
       "projectId": "mp4389v32re",
       "col": "tasks",
