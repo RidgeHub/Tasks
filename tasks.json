@@ -6,13 +6,14 @@
       "proj": "26001",
       "name": "Chernoff Cosmetics",
       "task": "Review",
-      "priority": "med",
+      "priority": "high",
       "due": "2026-05-16",
       "subtasks": [],
       "taskDone": false,
       "createdAt": 1778638966501,
       "movedAt": 1778638966501,
-      "calEventId": "ses98ic1iipgmnso98joujr6co"
+      "calEventId": "ses98ic1iipgmnso98joujr6co",
+      "notes": ""
     },
     {
       "id": "mp3ef0r9juzy",
