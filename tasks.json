@@ -1,19 +1,6 @@
 {
   "cards": [
     {
-      "id": "mp3g6lixgue",
-      "col": "today",
-      "proj": "26001",
-      "name": "Chernoff Cosmetics",
-      "task": "fast trak",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "createdAt": 1778639748729,
-      "movedAt": 1778639748729
-    },
-    {
       "id": "mp3g1r8z3g3",
       "col": "done",
       "proj": "26001",
