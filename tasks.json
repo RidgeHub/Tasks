@@ -2,7 +2,7 @@
   "cards": [
     {
       "id": "mp3ef0r9juzy",
-      "col": "tasks",
+      "col": "today",
       "proj": "26002",
       "name": "J Crew Factory",
       "task": "Review",
@@ -13,7 +13,7 @@
       "taskDone": false,
       "calEventId": null,
       "createdAt": 1778636782485,
-      "movedAt": 1778636782485
+      "movedAt": 1778636800327
     }
   ],
   "archived": []
