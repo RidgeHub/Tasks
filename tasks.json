@@ -35,7 +35,7 @@
     {
       "id": "mp4389v3xyr",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "done",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[ProVer] ProVer Meeting",
@@ -43,10 +43,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1778678458097,
-      "movedAt": 1778678458097
+      "movedAt": 1778685529246
     },
     {
       "id": "mp4389v3fo6",
