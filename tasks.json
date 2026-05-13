@@ -2,7 +2,7 @@
   "cards": [
     {
       "id": "mp3ef0r9juzy",
-      "col": "today",
+      "col": "done",
       "proj": "26002",
       "name": "J Crew Factory",
       "task": "Review",
@@ -10,10 +10,10 @@
       "due": "2026-05-14",
       "priority": "high",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "calEventId": "v6dmc9fmh8n3b39u1r1k0m69sg",
       "createdAt": 1778636782485,
-      "movedAt": 1778636800327
+      "movedAt": 1778637576401
     }
   ],
   "archived": []
