@@ -33,22 +33,6 @@
       "movedAt": 1778678458096
     },
     {
-      "id": "mp4389v3xyr",
-      "projectId": "mp4389v32re",
-      "col": "done",
-      "proj": "26002",
-      "name": "Women's Care Center",
-      "task": "[ProVer] ProVer Meeting",
-      "group": "ProVer",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": true,
-      "done": false,
-      "createdAt": 1778678458097,
-      "movedAt": 1778685529246
-    },
-    {
       "id": "mp4389v3fo6",
       "projectId": "mp4389v32re",
       "col": "tasks",
