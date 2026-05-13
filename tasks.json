@@ -13,21 +13,6 @@
       "createdAt": 1778639522867,
       "movedAt": 1778639766023,
       "notes": ""
-    },
-    {
-      "id": "mp3fptyddww",
-      "col": "done",
-      "proj": "26001",
-      "name": "Chernoff Cosmetics",
-      "task": "Review",
-      "priority": "high",
-      "due": "2026-05-16",
-      "subtasks": [],
-      "taskDone": true,
-      "createdAt": 1778638966501,
-      "movedAt": 1778639211610,
-      "calEventId": null,
-      "notes": ""
     }
   ],
   "archived": []
