@@ -17,7 +17,7 @@
     },
     {
       "id": "mp47kbcskkqs",
-      "col": "today",
+      "col": "done",
       "proj": "25032",
       "name": "Bank of America",
       "task": "CO / Bulletin #1",
@@ -25,10 +25,10 @@
       "due": "2026-05-15",
       "priority": "high",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "calEventId": "g35akhohjp557iidcq3aqlsi70",
       "createdAt": 1778685738364,
-      "movedAt": 1778685738364
+      "movedAt": 1779368628784
     },
     {
       "id": "mp47h9d29bb8",
