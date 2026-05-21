@@ -32,7 +32,7 @@
     },
     {
       "id": "mp47h9d29bb8",
-      "col": "today",
+      "col": "done",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "Print / Newest Prints",
@@ -40,10 +40,10 @@
       "due": "2026-05-15",
       "priority": "high",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "calEventId": "1q97fiders5oee882k3jjoej4k",
       "createdAt": 1778685595814,
-      "movedAt": 1778685595814
+      "movedAt": 1779368631527
     },
     {
       "id": "mp4389v3a0n",
