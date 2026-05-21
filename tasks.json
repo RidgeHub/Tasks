@@ -2,7 +2,7 @@
   "cards": [
     {
       "id": "mp4df7654xti",
-      "col": "today",
+      "col": "done",
       "proj": "25032",
       "name": "Bank of America",
       "task": "Email Shawn with Qs for CO",
@@ -10,10 +10,10 @@
       "due": "2026-05-13",
       "priority": "high",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "calEventId": null,
       "createdAt": 1778695577357,
-      "movedAt": 1778695577357
+      "movedAt": 1779368626636
     },
     {
       "id": "mp47kbcskkqs",
