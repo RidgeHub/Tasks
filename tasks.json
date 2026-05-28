@@ -227,7 +227,7 @@
     {
       "id": "mppn2938j4q",
       "projectId": "mppn2938cws",
-      "col": "tasks",
+      "col": "done",
       "proj": "26007",
       "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
       "task": "[Print] Print Essential 24x36 Drawings",
@@ -235,10 +235,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779981559173,
-      "movedAt": 1779981559173
+      "movedAt": 1779990095464
     },
     {
       "id": "mppn2938kck",
