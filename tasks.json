@@ -105,12 +105,13 @@
       "task": "[Design] Label Estimated Designs",
       "group": "Design",
       "priority": "",
-      "due": "",
+      "due": "2026-06-12",
       "subtasks": [],
       "taskDone": false,
       "done": false,
       "createdAt": 1781093192480,
-      "movedAt": 1781093192480
+      "movedAt": 1781093192480,
+      "notes": ""
     },
     {
       "id": "mq80weu8vyu",
