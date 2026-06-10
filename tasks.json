@@ -516,7 +516,7 @@
     {
       "id": "mppsk2trwzn",
       "projectId": "mppsk2tr1oi",
-      "col": "tasks",
+      "col": "week",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Accubid] Create Project",
@@ -527,7 +527,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788944,
-      "movedAt": 1779990788944
+      "movedAt": 1781094150313
     },
     {
       "id": "mppsk2tr89i",
