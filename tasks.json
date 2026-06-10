@@ -2068,7 +2068,7 @@
     {
       "id": "mppn2938yu5",
       "projectId": "mppn2938cws",
-      "col": "tasks",
+      "col": "week",
       "proj": "26007",
       "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
       "task": "[Prefab] Upload to Prefab Board",
@@ -2079,7 +2079,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779981559176,
-      "movedAt": 1779981559176
+      "movedAt": 1781094366735
     },
     {
       "id": "mppn293811g",
