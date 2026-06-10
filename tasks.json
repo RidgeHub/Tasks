@@ -1140,7 +1140,7 @@
     {
       "id": "mppsjc4veh1",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Label Print for Prefab",
@@ -1148,15 +1148,15 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754351,
-      "movedAt": 1779990754351
+      "movedAt": 1781094266902
     },
     {
       "id": "mppsjc4v0nq",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Add Prefab Codes to Labels",
@@ -1164,10 +1164,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754352,
-      "movedAt": 1779990754352
+      "movedAt": 1781094267613
     },
     {
       "id": "mppsjc4vclc",
