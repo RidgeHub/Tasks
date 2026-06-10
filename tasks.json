@@ -2513,7 +2513,7 @@
     {
       "id": "mp4389v3zpu",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "week",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Prefab] Get MC Cable Amounts",
@@ -2524,7 +2524,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1778678458101,
-      "movedAt": 1778678458101
+      "movedAt": 1781094441055
     },
     {
       "id": "mp4389v3x1i",
