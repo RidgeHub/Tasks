@@ -1204,7 +1204,7 @@
     {
       "id": "mppsjc4vunc",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Upload to Prefab Board",
@@ -1212,15 +1212,15 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754355,
-      "movedAt": 1779990754355
+      "movedAt": 1781094268813
     },
     {
       "id": "mppsjc4verh",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Print Labels",
@@ -1228,15 +1228,15 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754356,
-      "movedAt": 1779990754356
+      "movedAt": 1781094269181
     },
     {
       "id": "mppsjc4v2dt",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Get MC Cable Amounts",
@@ -1244,10 +1244,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754357,
-      "movedAt": 1779990754357
+      "movedAt": 1781094269589
     },
     {
       "id": "mppsjc4v286",
