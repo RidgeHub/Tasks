@@ -660,7 +660,7 @@
     {
       "id": "mppsk2trcxv",
       "projectId": "mppsk2tr1oi",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Print] Print Essential 24x36 Drawings",
@@ -668,10 +668,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990788944,
-      "movedAt": 1779990788944
+      "movedAt": 1781094189981
     },
     {
       "id": "mppsk2trlft",
