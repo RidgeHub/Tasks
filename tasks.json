@@ -676,7 +676,7 @@
     {
       "id": "mppsk2trlft",
       "projectId": "mppsk2tr1oi",
-      "col": "tasks",
+      "col": "week",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[SitePrint] Obtain CAD Files",
@@ -687,7 +687,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788943,
-      "movedAt": 1779990788943
+      "movedAt": 1781094193080
     },
     {
       "id": "mppsk2trjrd",
