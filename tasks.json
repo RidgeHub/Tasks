@@ -1620,7 +1620,7 @@
     {
       "id": "mppsahy89mb",
       "projectId": "mppsahy8qau",
-      "col": "tasks",
+      "col": "week",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Prefab] Upload to Drive",
@@ -1631,7 +1631,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341987,
-      "movedAt": 1779990341987
+      "movedAt": 1781094315512
     },
     {
       "id": "mppsahy8r1p",
