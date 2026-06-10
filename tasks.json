@@ -804,7 +804,7 @@
     {
       "id": "mppsk2tr25c",
       "projectId": "mppsk2tr1oi",
-      "col": "tasks",
+      "col": "week",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Get MC Cable Amounts",
@@ -815,7 +815,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788949,
-      "movedAt": 1779990788949
+      "movedAt": 1781094224072
     },
     {
       "id": "mppsk2tr5mz",
