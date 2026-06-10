@@ -3,7 +3,7 @@
     {
       "id": "mq80weu8q89",
       "projectId": "mq80weu7rvg",
-      "col": "tasks",
+      "col": "done",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[ProVer] Review Prints & Specs",
@@ -11,10 +11,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1781093192480,
-      "movedAt": 1781093192480
+      "movedAt": 1781093955942
     },
     {
       "id": "mq80weu84h4",
