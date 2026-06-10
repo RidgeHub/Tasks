@@ -372,7 +372,7 @@
     {
       "id": "mq80weu83i9",
       "projectId": "mq80weu7rvg",
-      "col": "tasks",
+      "col": "week",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Prefab] Get MC Cable Amounts",
@@ -383,7 +383,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1781093192486,
-      "movedAt": 1781093192486
+      "movedAt": 1781094138303
     },
     {
       "id": "mq80weu80mx",
