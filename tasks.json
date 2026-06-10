@@ -228,7 +228,7 @@
     {
       "id": "mq80weu8edo",
       "projectId": "mq80weu7rvg",
-      "col": "tasks",
+      "col": "done",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Print] Print Essential 24x36 Drawings",
@@ -236,10 +236,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1781093192481,
-      "movedAt": 1781093192481
+      "movedAt": 1781094079421
     },
     {
       "id": "mq80weu83mi",
