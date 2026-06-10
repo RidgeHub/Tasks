@@ -644,7 +644,7 @@
     {
       "id": "mppsk2truh9",
       "projectId": "mppsk2tr1oi",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Print] Print Full Set 11x17 Drawings",
@@ -652,10 +652,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990788943,
-      "movedAt": 1779990788943
+      "movedAt": 1781094188957
     },
     {
       "id": "mppsk2trcxv",
