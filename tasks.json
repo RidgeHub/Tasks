@@ -1124,7 +1124,7 @@
     {
       "id": "mppsjc4vdvf",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[SitePrint] Prepare CADs For Printing",
@@ -1132,10 +1132,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754352,
-      "movedAt": 1779990754352
+      "movedAt": 1781094266077
     },
     {
       "id": "mppsjc4veh1",
