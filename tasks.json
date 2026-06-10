@@ -1060,7 +1060,7 @@
     {
       "id": "mppsjc4vibx",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Design] Print Design Revisions",
@@ -1068,15 +1068,15 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754357,
-      "movedAt": 1779990754357
+      "movedAt": 1781094262725
     },
     {
       "id": "mppsjc4vj38",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Print] Print Full Set 11x17 Drawings",
@@ -1084,10 +1084,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754351,
-      "movedAt": 1779990754351
+      "movedAt": 1781094263381
     },
     {
       "id": "mppsjc4vqs1",
