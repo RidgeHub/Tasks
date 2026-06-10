@@ -1604,7 +1604,7 @@
     {
       "id": "mppsahy8glu",
       "projectId": "mppsahy8qau",
-      "col": "tasks",
+      "col": "week",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Prefab] Upload to Assembly Creator",
@@ -1615,7 +1615,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341986,
-      "movedAt": 1779990341986
+      "movedAt": 1781094313809
     },
     {
       "id": "mppsahy89mb",
