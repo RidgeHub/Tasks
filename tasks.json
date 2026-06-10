@@ -67,7 +67,7 @@
     {
       "id": "mq80weu8ixv",
       "projectId": "mq80weu7rvg",
-      "col": "today",
+      "col": "done",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Accubid] Estimate Clean",
@@ -75,10 +75,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1781093192480,
-      "movedAt": 1781094041961
+      "movedAt": 1781094749165
     },
     {
       "id": "mq80weu8rdq",
