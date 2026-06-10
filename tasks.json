@@ -1284,7 +1284,7 @@
     {
       "id": "mppsjc4vgwz",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[As-Builts] Email to Amber",
@@ -1292,10 +1292,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754353,
-      "movedAt": 1779990754353
+      "movedAt": 1781094271485
     },
     {
       "id": "mppsahy8hqi",
@@ -1364,7 +1364,7 @@
     {
       "id": "mppsahy8e4g",
       "projectId": "mppsahy8qau",
-      "col": "tasks",
+      "col": "week",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Accubid] Estimate Clean",
@@ -1375,7 +1375,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341984,
-      "movedAt": 1779990341984
+      "movedAt": 1781094274777
     },
     {
       "id": "mppsahy8hra",
