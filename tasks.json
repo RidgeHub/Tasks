@@ -740,7 +740,7 @@
     {
       "id": "mppsk2trm7i",
       "projectId": "mppsk2tr1oi",
-      "col": "tasks",
+      "col": "week",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Upload to Assembly Creator",
@@ -751,7 +751,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788945,
-      "movedAt": 1779990788945
+      "movedAt": 1781094212384
     },
     {
       "id": "mppsk2trhud",
