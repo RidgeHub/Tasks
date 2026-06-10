@@ -1380,7 +1380,7 @@
     {
       "id": "mppsahy8hra",
       "projectId": "mppsahy8qau",
-      "col": "tasks",
+      "col": "week",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Accubid] Create Project",
@@ -1391,7 +1391,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341985,
-      "movedAt": 1779990341985
+      "movedAt": 1781094276664
     },
     {
       "id": "mppsahy8x8t",
