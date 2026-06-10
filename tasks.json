@@ -884,7 +884,7 @@
     {
       "id": "mppsjc4vwzy",
       "projectId": "mppsjc4va8k",
-      "col": "due",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[ProVer] Review Accubid Estimate",
@@ -892,15 +892,15 @@
       "priority": "",
       "due": "2026-05-29",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754352,
-      "movedAt": 1779990754352
+      "movedAt": 1781094457949
     },
     {
       "id": "mppsjc4vwed",
       "projectId": "mppsjc4va8k",
-      "col": "due",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[ProVer] ProVer Meeting",
@@ -908,10 +908,10 @@
       "priority": "",
       "due": "2026-05-29",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754353,
-      "movedAt": 1779990754353
+      "movedAt": 1781094458637
     },
     {
       "id": "mppsjc4v4ht",
