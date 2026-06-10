@@ -1396,7 +1396,7 @@
     {
       "id": "mppsahy8x8t",
       "projectId": "mppsahy8qau",
-      "col": "tasks",
+      "col": "week",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Design] Label Estimated Designs",
@@ -1407,7 +1407,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341984,
-      "movedAt": 1779990341984
+      "movedAt": 1781094281951
     },
     {
       "id": "mppsahy8kc0",
