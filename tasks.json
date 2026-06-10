@@ -1300,7 +1300,7 @@
     {
       "id": "mppsahy8hqi",
       "projectId": "mppsahy8qau",
-      "col": "due",
+      "col": "done",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[ProVer] Review Prints & Specs",
@@ -1308,10 +1308,10 @@
       "priority": "",
       "due": "2026-06-05",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990341984,
-      "movedAt": 1779990341984
+      "movedAt": 1781094462629
     },
     {
       "id": "mppsahy8v4n",
