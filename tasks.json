@@ -1524,7 +1524,7 @@
     {
       "id": "mppsahy8dzz",
       "projectId": "mppsahy8qau",
-      "col": "tasks",
+      "col": "week",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Print] Print Essential 24x36 Drawings",
@@ -1535,7 +1535,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341985,
-      "movedAt": 1779990341985
+      "movedAt": 1781094303168
     },
     {
       "id": "mppsahy8t1q",
