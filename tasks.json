@@ -1796,7 +1796,7 @@
     {
       "id": "mppn2938p6d",
       "projectId": "mppn2938cws",
-      "col": "tasks",
+      "col": "week",
       "proj": "26007",
       "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
       "task": "[Accubid] Estimate Clean",
@@ -1807,7 +1807,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779981559172,
-      "movedAt": 1779981559172
+      "movedAt": 1781094339832
     },
     {
       "id": "mppn2938vnh",
