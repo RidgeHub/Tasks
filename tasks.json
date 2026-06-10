@@ -1092,7 +1092,7 @@
     {
       "id": "mppsjc4vqs1",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Print] Print Essential 24x36 Drawings",
@@ -1100,15 +1100,15 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754352,
-      "movedAt": 1779990754352
+      "movedAt": 1781094263949
     },
     {
       "id": "mppsjc4vanu",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[SitePrint] Obtain CAD Files",
@@ -1116,10 +1116,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754351,
-      "movedAt": 1779990754351
+      "movedAt": 1781094264965
     },
     {
       "id": "mppsjc4vdvf",
