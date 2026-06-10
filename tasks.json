@@ -436,7 +436,7 @@
     {
       "id": "mppsk2trlr7",
       "projectId": "mppsk2tr1oi",
-      "col": "due",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[ProVer] Review Prints & Specs",
@@ -444,10 +444,10 @@
       "priority": "",
       "due": "2026-05-29",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990788943,
-      "movedAt": 1779990788943
+      "movedAt": 1781094448765
     },
     {
       "id": "mppsk2trm1f",
