@@ -1252,7 +1252,7 @@
     {
       "id": "mppsjc4v286",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[As-Builts] Talk to Foreman About Changes",
@@ -1260,15 +1260,15 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754351,
-      "movedAt": 1779990754351
+      "movedAt": 1781094270269
     },
     {
       "id": "mppsjc4vw2d",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[As-Builts] Create As-Builts",
@@ -1276,10 +1276,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754352,
-      "movedAt": 1779990754352
+      "movedAt": 1781094270853
     },
     {
       "id": "mppsjc4vgwz",
