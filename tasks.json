@@ -2225,7 +2225,7 @@
     {
       "id": "mp4389v3oa0",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "week",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Accubid] Create Project",
@@ -2236,7 +2236,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1778678458096,
-      "movedAt": 1778678458096
+      "movedAt": 1781094384304
     },
     {
       "id": "mp4389v3ilz",
