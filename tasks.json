@@ -19,7 +19,7 @@
     {
       "id": "mq80weu84h4",
       "projectId": "mq80weu7rvg",
-      "col": "tasks",
+      "col": "done",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[ProVer] Review Accubid Estimate",
@@ -27,10 +27,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1781093192481,
-      "movedAt": 1781093192481
+      "movedAt": 1781093958494
     },
     {
       "id": "mq80weu8c36",
