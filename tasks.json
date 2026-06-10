@@ -2449,7 +2449,7 @@
     {
       "id": "mp4389v3mzj",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "done",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Prefab] Upload to Assembly Creator",
@@ -2457,10 +2457,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1778678458097,
-      "movedAt": 1778678458097
+      "movedAt": 1781094429573
     },
     {
       "id": "mp4389v3mm4",
