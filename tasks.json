@@ -2289,7 +2289,7 @@
     {
       "id": "mp4389v3mzu",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "week",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Design] Talk to Foreman about Design Revisions",
@@ -2300,7 +2300,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1778678458098,
-      "movedAt": 1778678458098
+      "movedAt": 1781094394785
     },
     {
       "id": "mp4389v3321",
