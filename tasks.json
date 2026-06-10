@@ -564,7 +564,7 @@
     {
       "id": "mppsk2triz6",
       "projectId": "mppsk2tr1oi",
-      "col": "tasks",
+      "col": "week",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Design] Print Designs",
@@ -575,7 +575,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788945,
-      "movedAt": 1779990788945
+      "movedAt": 1781094175688
     },
     {
       "id": "mppsk2tr3wf",
