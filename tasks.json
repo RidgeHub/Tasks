@@ -244,7 +244,7 @@
     {
       "id": "mq80weu83mi",
       "projectId": "mq80weu7rvg",
-      "col": "tasks",
+      "col": "week",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[SitePrint] Obtain CAD Files",
@@ -255,7 +255,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1781093192480,
-      "movedAt": 1781093192480
+      "movedAt": 1781094088144
     },
     {
       "id": "mq80weu896x",
