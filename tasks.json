@@ -932,7 +932,7 @@
     {
       "id": "mppsjc4vs6h",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Accubid] Estimate Clean",
@@ -940,10 +940,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754351,
-      "movedAt": 1779990754351
+      "movedAt": 1781094252189
     },
     {
       "id": "mppsjc4via3",
