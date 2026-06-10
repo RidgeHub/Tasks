@@ -1636,7 +1636,7 @@
     {
       "id": "mppsahy8r1p",
       "projectId": "mppsahy8qau",
-      "col": "tasks",
+      "col": "week",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Prefab] Upload to Prefab Board",
@@ -1647,7 +1647,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341988,
-      "movedAt": 1779990341988
+      "movedAt": 1781094317121
     },
     {
       "id": "mppsahy8eg9",
