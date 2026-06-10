@@ -1972,7 +1972,7 @@
     {
       "id": "mppn2938kck",
       "projectId": "mppn2938cws",
-      "col": "tasks",
+      "col": "week",
       "proj": "26007",
       "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
       "task": "[SitePrint] Obtain CAD Files",
@@ -1983,7 +1983,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779981559172,
-      "movedAt": 1779981559172
+      "movedAt": 1781094355313
     },
     {
       "id": "mppn2938rpa",
