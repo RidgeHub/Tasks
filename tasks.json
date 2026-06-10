@@ -83,7 +83,7 @@
     {
       "id": "mq80weu8rdq",
       "projectId": "mq80weu7rvg",
-      "col": "tasks",
+      "col": "done",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Accubid] Create Project",
@@ -91,10 +91,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1781093192481,
-      "movedAt": 1781093192481
+      "movedAt": 1781093963526
     },
     {
       "id": "mq80weu81tr",
