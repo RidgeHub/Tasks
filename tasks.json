@@ -1172,7 +1172,7 @@
     {
       "id": "mppsjc4vclc",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Upload to Assembly Creator",
@@ -1180,15 +1180,15 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754353,
-      "movedAt": 1779990754353
+      "movedAt": 1781094268078
     },
     {
       "id": "mppsjc4v444",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Upload to Drive",
@@ -1196,10 +1196,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754354,
-      "movedAt": 1779990754354
+      "movedAt": 1781094268389
     },
     {
       "id": "mppsjc4vunc",
