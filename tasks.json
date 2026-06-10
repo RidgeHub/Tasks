@@ -532,7 +532,7 @@
     {
       "id": "mppsk2tr89i",
       "projectId": "mppsk2tr1oi",
-      "col": "tasks",
+      "col": "week",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Design] Label Estimated Designs",
@@ -543,7 +543,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788943,
-      "movedAt": 1779990788943
+      "movedAt": 1781094155641
     },
     {
       "id": "mppsk2trp39",
