@@ -340,7 +340,7 @@
     {
       "id": "mq80weu8j5t",
       "projectId": "mq80weu7rvg",
-      "col": "tasks",
+      "col": "done",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Prefab] Upload to Prefab Board",
@@ -348,10 +348,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1781093192484,
-      "movedAt": 1781093192484
+      "movedAt": 1781094111390
     },
     {
       "id": "mq80weu8dog",
