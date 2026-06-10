@@ -2417,7 +2417,7 @@
     {
       "id": "mp4389v35ce",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "done",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Prefab] Label Print for Prefab",
@@ -2425,10 +2425,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1778678458095,
-      "movedAt": 1778678458095
+      "movedAt": 1781094426005
     },
     {
       "id": "mp4389v3h3x",
