@@ -132,7 +132,7 @@
     {
       "id": "mq80weu8pw5",
       "projectId": "mq80weu7rvg",
-      "col": "tasks",
+      "col": "week",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Design] Print Designs",
@@ -143,7 +143,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1781093192482,
-      "movedAt": 1781093192482
+      "movedAt": 1781094055008
     },
     {
       "id": "mq80weu8niz",
