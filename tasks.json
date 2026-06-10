@@ -484,7 +484,7 @@
     {
       "id": "mppsk2trblw",
       "projectId": "mppsk2tr1oi",
-      "col": "due",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[ProVer] Talk About Design Changes",
@@ -492,10 +492,10 @@
       "priority": "",
       "due": "2026-05-29",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990788946,
-      "movedAt": 1779990788946
+      "movedAt": 1781094456846
     },
     {
       "id": "mppsk2tryfq",
@@ -868,7 +868,7 @@
     {
       "id": "mppsjc4vxn1",
       "projectId": "mppsjc4va8k",
-      "col": "due",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[ProVer] Review Prints & Specs",
@@ -876,10 +876,10 @@
       "priority": "",
       "due": "2026-05-29",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754351,
-      "movedAt": 1779990754351
+      "movedAt": 1781094457317
     },
     {
       "id": "mppsjc4vwzy",
