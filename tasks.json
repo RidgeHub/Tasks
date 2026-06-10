@@ -2369,7 +2369,7 @@
     {
       "id": "mp4389v36it",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "done",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Print] Print Essential 24x36 Drawings",
@@ -2377,10 +2377,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1778678458096,
-      "movedAt": 1778678458096
+      "movedAt": 1781094413189
     },
     {
       "id": "mp4389v3nau",
