@@ -1028,7 +1028,7 @@
     {
       "id": "mppsjc4veey",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Design] Make Revisions",
@@ -1036,15 +1036,15 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754355,
-      "movedAt": 1779990754355
+      "movedAt": 1781094261541
     },
     {
       "id": "mppsjc4v51g",
       "projectId": "mppsjc4va8k",
-      "col": "tasks",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Design] Upload Revisions to Bluebeam",
@@ -1052,10 +1052,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990754356,
-      "movedAt": 1779990754356
+      "movedAt": 1781094262037
     },
     {
       "id": "mppsjc4vibx",
