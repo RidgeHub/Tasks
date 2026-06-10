@@ -2241,7 +2241,7 @@
     {
       "id": "mp4389v3ilz",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "week",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Design] Label Estimated Designs",
@@ -2252,7 +2252,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1778678458095,
-      "movedAt": 1778678458095
+      "movedAt": 1781094387664
     },
     {
       "id": "mp4389v36es",
