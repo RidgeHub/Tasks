@@ -2020,7 +2020,7 @@
     {
       "id": "mppn2938czw",
       "projectId": "mppn2938cws",
-      "col": "week",
+      "col": "today",
       "proj": "26007",
       "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
       "task": "[Prefab] Label Print for Prefab",
@@ -2031,7 +2031,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779981559172,
-      "movedAt": 1781094358167
+      "movedAt": 1782300320169
     },
     {
       "id": "mppn2938s8m",
