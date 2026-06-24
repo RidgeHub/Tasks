@@ -2,16 +2,16 @@
   "cards": [
     {
       "id": "mqrzew5gslh",
-      "col": "today",
+      "col": "done",
       "proj": "",
       "name": "Priority Physicians",
       "task": "Upload prints to bluebeam",
       "priority": "high",
       "due": "2026-06-26",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "createdAt": 1782300019012,
-      "movedAt": 1782300019012,
+      "movedAt": 1782304780360,
       "notes": ""
     },
     {
