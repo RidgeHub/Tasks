@@ -2116,7 +2116,7 @@
     {
       "id": "mppn29382ix",
       "projectId": "mppn2938cws",
-      "col": "week",
+      "col": "today",
       "proj": "26007",
       "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
       "task": "[Prefab] Get MC Cable Amounts",
@@ -2127,7 +2127,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779981559178,
-      "movedAt": 1781094369823
+      "movedAt": 1782300333311
     },
     {
       "id": "mppn29382u3",
