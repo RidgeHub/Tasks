@@ -2273,7 +2273,7 @@
     {
       "id": "mp4389v36es",
       "projectId": "mp4389v32re",
-      "col": "week",
+      "col": "today",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Design] Upload Designs to Bluebeam",
@@ -2284,7 +2284,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1778678458096,
-      "movedAt": 1781094390777
+      "movedAt": 1782300347487
     },
     {
       "id": "mp4389v32s6",
