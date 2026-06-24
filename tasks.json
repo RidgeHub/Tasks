@@ -1474,22 +1474,6 @@
       "movedAt": 1782300260645
     },
     {
-      "id": "mppsahy86ay",
-      "projectId": "mppsahy8qau",
-      "col": "week",
-      "proj": "26008",
-      "name": "MVP Fountain Square",
-      "task": "[Design] Print Designs",
-      "group": "Design",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1779990341986,
-      "movedAt": 1781094288336
-    },
-    {
       "id": "mppsahy83ro",
       "projectId": "mppsahy8qau",
       "col": "week",
