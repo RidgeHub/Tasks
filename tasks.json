@@ -6,12 +6,13 @@
       "proj": "",
       "name": "Priority Physicians",
       "task": "Upload prints to bluebeam",
-      "priority": "",
-      "due": "",
+      "priority": "high",
+      "due": "2026-06-26",
       "subtasks": [],
       "taskDone": false,
       "createdAt": 1782300019012,
-      "movedAt": 1782300019012
+      "movedAt": 1782300019012,
+      "notes": ""
     },
     {
       "id": "mqrzegidgsk",
