@@ -772,7 +772,7 @@
     {
       "id": "mppsk2trxuc",
       "projectId": "mppsk2tr1oi",
-      "col": "week",
+      "col": "today",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Add Prefab Codes to Labels",
@@ -783,7 +783,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788944,
-      "movedAt": 1781094210551
+      "movedAt": 1782300240176
     },
     {
       "id": "mppsk2trm7i",
