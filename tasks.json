@@ -1700,7 +1700,7 @@
     {
       "id": "mppsahy89v4",
       "projectId": "mppsahy8qau",
-      "col": "week",
+      "col": "today",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Prefab] Get MC Cable Amounts",
@@ -1711,7 +1711,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341990,
-      "movedAt": 1781094320480
+      "movedAt": 1782300291799
     },
     {
       "id": "mppsahy8coi",
