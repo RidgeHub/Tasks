@@ -756,7 +756,7 @@
     {
       "id": "mppsk2tr372",
       "projectId": "mppsk2tr1oi",
-      "col": "week",
+      "col": "today",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Label Print for Prefab",
@@ -767,7 +767,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788943,
-      "movedAt": 1781094207473
+      "movedAt": 1782300237536
     },
     {
       "id": "mppsk2trxuc",
