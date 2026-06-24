@@ -1620,7 +1620,7 @@
     {
       "id": "mppsahy8msm",
       "projectId": "mppsahy8qau",
-      "col": "week",
+      "col": "today",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Prefab] Add Prefab Codes to Labels",
@@ -1631,7 +1631,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341985,
-      "movedAt": 1781094310024
+      "movedAt": 1782300284230
     },
     {
       "id": "mppsahy8glu",
