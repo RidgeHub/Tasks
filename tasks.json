@@ -564,7 +564,7 @@
     {
       "id": "mppsk2tryfq",
       "projectId": "mppsk2tr1oi",
-      "col": "week",
+      "col": "today",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Accubid] Estimate Clean",
@@ -575,7 +575,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788943,
-      "movedAt": 1781094147256
+      "movedAt": 1782300218721
     },
     {
       "id": "mppsk2trwzn",
