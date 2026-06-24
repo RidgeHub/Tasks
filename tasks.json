@@ -420,7 +420,7 @@
     {
       "id": "mq80weu8dog",
       "projectId": "mq80weu7rvg",
-      "col": "week",
+      "col": "today",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Prefab] Print Labels",
@@ -431,7 +431,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1781093192485,
-      "movedAt": 1781094131719
+      "movedAt": 1782300211832
     },
     {
       "id": "mq80weu83i9",
