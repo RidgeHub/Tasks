@@ -612,7 +612,7 @@
     {
       "id": "mppsk2trp39",
       "projectId": "mppsk2tr1oi",
-      "col": "week",
+      "col": "today",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Design] Upload Designs to Bluebeam",
@@ -623,7 +623,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990788944,
-      "movedAt": 1781094159409
+      "movedAt": 1782300227247
     },
     {
       "id": "mppsk2triz6",
