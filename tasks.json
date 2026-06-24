@@ -1412,7 +1412,7 @@
     {
       "id": "mppsahy8e4g",
       "projectId": "mppsahy8qau",
-      "col": "week",
+      "col": "today",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Accubid] Estimate Clean",
@@ -1423,7 +1423,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341984,
-      "movedAt": 1781094274777
+      "movedAt": 1782300253550
     },
     {
       "id": "mppsahy8hra",
