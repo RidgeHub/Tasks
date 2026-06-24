@@ -1540,7 +1540,7 @@
     {
       "id": "mppsahy8tf2",
       "projectId": "mppsahy8qau",
-      "col": "week",
+      "col": "done",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Print] Print Full Set 11x17 Drawings",
@@ -1548,10 +1548,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990341984,
-      "movedAt": 1781094298745
+      "movedAt": 1782300275170
     },
     {
       "id": "mppsahy8dzz",
