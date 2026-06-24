@@ -1876,7 +1876,7 @@
     {
       "id": "mppn2938yxi",
       "projectId": "mppn2938cws",
-      "col": "week",
+      "col": "today",
       "proj": "26007",
       "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
       "task": "[Design] Upload Designs to Bluebeam",
@@ -1887,7 +1887,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779981559173,
-      "movedAt": 1781094343880
+      "movedAt": 1782300298183
     },
     {
       "id": "mppn2938aex",
