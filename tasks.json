@@ -388,7 +388,7 @@
     {
       "id": "mq80weu860l",
       "projectId": "mq80weu7rvg",
-      "col": "week",
+      "col": "today",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Prefab] Upload to Drive",
@@ -399,7 +399,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1781093192483,
-      "movedAt": 1781094108112
+      "movedAt": 1782300209527
     },
     {
       "id": "mq80weu8j5t",
