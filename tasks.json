@@ -6,12 +6,13 @@
       "proj": "",
       "name": "Meijer",
       "task": "print IFC drawings",
-      "priority": "",
+      "priority": "high",
       "due": "2026-06-26",
       "subtasks": [],
       "taskDone": false,
       "createdAt": 1782299548843,
-      "movedAt": 1782299548843
+      "movedAt": 1782299548843,
+      "notes": ""
     },
     {
       "id": "mqrysf55i0k",
