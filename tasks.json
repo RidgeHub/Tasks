@@ -2401,7 +2401,7 @@
     {
       "id": "mp4389v3t8x",
       "projectId": "mp4389v32re",
-      "col": "week",
+      "col": "today",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[SitePrint] Prepare CADs For Printing",
@@ -2412,7 +2412,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1778678458096,
-      "movedAt": 1781094418912
+      "movedAt": 1782300358183
     },
     {
       "id": "mp4389v35ce",
