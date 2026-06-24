@@ -1604,7 +1604,7 @@
     {
       "id": "mppsahy8c2e",
       "projectId": "mppsahy8qau",
-      "col": "week",
+      "col": "today",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Prefab] Label Print for Prefab",
@@ -1615,7 +1615,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341984,
-      "movedAt": 1781094308248
+      "movedAt": 1782300282496
     },
     {
       "id": "mppsahy8msm",
