@@ -1460,7 +1460,7 @@
     {
       "id": "mppsahy8kc0",
       "projectId": "mppsahy8qau",
-      "col": "week",
+      "col": "today",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Design] Upload Designs to Bluebeam",
@@ -1471,7 +1471,7 @@
       "taskDone": false,
       "done": false,
       "createdAt": 1779990341985,
-      "movedAt": 1781094284640
+      "movedAt": 1782300260645
     },
     {
       "id": "mppsahy86ay",
