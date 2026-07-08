@@ -16,16 +16,16 @@
     },
     {
       "id": "mqrzegidgsk",
-      "col": "today",
+      "col": "done",
       "proj": "",
       "name": "Kiddie Academy",
       "task": "upload prints to bluebeam",
       "priority": "high",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "createdAt": 1782299998741,
-      "movedAt": 1782299998741
+      "movedAt": 1783516309963
     },
     {
       "id": "mqrzdxvzf5m",
