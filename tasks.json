@@ -1410,22 +1410,6 @@
       "movedAt": 1779990341987
     },
     {
-      "id": "mppsahy8e4g",
-      "projectId": "mppsahy8qau",
-      "col": "today",
-      "proj": "26008",
-      "name": "MVP Fountain Square",
-      "task": "[Accubid] Estimate Clean",
-      "group": "Accubid",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1779990341984,
-      "movedAt": 1782300253550
-    },
-    {
       "id": "mppsahy8hra",
       "projectId": "mppsahy8qau",
       "col": "today",
