@@ -1929,7 +1929,7 @@
     {
       "id": "mppn293819n",
       "projectId": "mppn2938cws",
-      "col": "due",
+      "col": "done",
       "proj": "26007",
       "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
       "task": "[ProVer] Review Prints & Specs",
@@ -1937,10 +1937,10 @@
       "priority": "",
       "due": "2026-06-01",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779981559172,
-      "movedAt": 1779981559172
+      "movedAt": 1783961142927
     },
     {
       "id": "mppn2938lly",
