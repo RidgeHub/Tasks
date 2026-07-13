@@ -19,7 +19,7 @@
     {
       "id": "mrjcqzfffh9",
       "projectId": "mrjcqzfffou",
-      "col": "tasks",
+      "col": "done",
       "proj": "26009",
       "name": "Autozone #11112",
       "task": "[ProVer] Review Accubid Estimate",
@@ -27,10 +27,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1783955004892,
-      "movedAt": 1783955004892
+      "movedAt": 1783961013975
     },
     {
       "id": "mrjcqzffyk9",
@@ -532,22 +532,6 @@
       "done": false,
       "createdAt": 1781093192482,
       "movedAt": 1781093959494
-    },
-    {
-      "id": "mq80weu8rw0",
-      "projectId": "mq80weu7rvg",
-      "col": "tasks",
-      "proj": "26004",
-      "name": "Autozone #10787",
-      "task": "[ProVer] Talk About Design Changes",
-      "group": "ProVer",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1781093192483,
-      "movedAt": 1781093192483
     },
     {
       "id": "mq80weu8ixv",
