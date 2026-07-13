@@ -2071,22 +2071,6 @@
       "movedAt": 1781094348951
     },
     {
-      "id": "mppn2938pi9",
-      "projectId": "mppn2938cws",
-      "col": "tasks",
-      "proj": "26007",
-      "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
-      "task": "[Design] Print Design Revisions",
-      "group": "Design",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1779981559178,
-      "movedAt": 1779981559178
-    },
-    {
       "id": "mppn2938kn8",
       "projectId": "mppn2938cws",
       "col": "done",
