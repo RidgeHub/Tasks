@@ -51,7 +51,7 @@
     {
       "id": "mrjcqzffy9e",
       "projectId": "mrjcqzfffou",
-      "col": "tasks",
+      "col": "done",
       "proj": "26009",
       "name": "Autozone #11112",
       "task": "[ProVer] Talk About Design Changes",
@@ -59,10 +59,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1783955004894,
-      "movedAt": 1783955004894
+      "movedAt": 1783955051848
     },
     {
       "id": "mrjcqzff0f8",
