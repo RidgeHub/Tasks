@@ -615,22 +615,6 @@
       "movedAt": 1781094064408
     },
     {
-      "id": "mq80weu8n94",
-      "projectId": "mq80weu7rvg",
-      "col": "tasks",
-      "proj": "26004",
-      "name": "Autozone #10787",
-      "task": "[Design] Make Revisions",
-      "group": "Design",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1781093192484,
-      "movedAt": 1781093192484
-    },
-    {
       "id": "mq80weu8u19",
       "projectId": "mq80weu7rvg",
       "col": "tasks",
