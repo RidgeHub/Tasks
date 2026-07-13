@@ -2374,7 +2374,7 @@
     {
       "id": "mp4389v3321",
       "projectId": "mp4389v32re",
-      "col": "week",
+      "col": "done",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Design] Make Revisions",
@@ -2382,10 +2382,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1778678458099,
-      "movedAt": 1781094402503
+      "movedAt": 1783961176071
     },
     {
       "id": "mp4389v3co4",
