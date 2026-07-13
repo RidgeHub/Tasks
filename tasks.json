@@ -791,22 +791,6 @@
       "movedAt": 1782300215231
     },
     {
-      "id": "mq80weu80mx",
-      "projectId": "mq80weu7rvg",
-      "col": "tasks",
-      "proj": "26004",
-      "name": "Autozone #10787",
-      "task": "[As-Builts] Talk to Foreman About Changes",
-      "group": "As-Builts",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1781093192480,
-      "movedAt": 1781093192480
-    },
-    {
       "id": "mq80weu8tut",
       "projectId": "mq80weu7rvg",
       "col": "tasks",
