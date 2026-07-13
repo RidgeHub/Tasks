@@ -1721,7 +1721,7 @@
     {
       "id": "mppsahy83ro",
       "projectId": "mppsahy8qau",
-      "col": "week",
+      "col": "done",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Design] Talk to Foreman about Design Revisions",
@@ -1729,10 +1729,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990341987,
-      "movedAt": 1781094291265
+      "movedAt": 1783961167671
     },
     {
       "id": "mppsahy8tf2",
