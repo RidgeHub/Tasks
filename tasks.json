@@ -953,7 +953,7 @@
     {
       "id": "mppsk2tr3wf",
       "projectId": "mppsk2tr1oi",
-      "col": "week",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Design] Talk to Foreman about Design Revisions",
@@ -961,10 +961,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990788946,
-      "movedAt": 1781094179912
+      "movedAt": 1783961163719
     },
     {
       "id": "mppsk2truh9",
