@@ -793,7 +793,7 @@
     {
       "id": "mppsk2trpc4",
       "projectId": "mppsk2tr1oi",
-      "col": "today",
+      "col": "done",
       "proj": "26006",
       "name": "Danis Office Renovation",
       "task": "[Prefab] Upload to Prefab Board",
@@ -801,10 +801,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990788947,
-      "movedAt": 1782300248303
+      "movedAt": 1783950013583
     },
     {
       "id": "mppsk2tr44e",
