@@ -967,22 +967,6 @@
       "movedAt": 1781094179912
     },
     {
-      "id": "mppsk2trsff",
-      "projectId": "mppsk2tr1oi",
-      "col": "tasks",
-      "proj": "26006",
-      "name": "Danis Office Renovation",
-      "task": "[Design] Print Design Revisions",
-      "group": "Design",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1779990788949,
-      "movedAt": 1779990788949
-    },
-    {
       "id": "mppsk2truh9",
       "projectId": "mppsk2tr1oi",
       "col": "done",
@@ -1157,22 +1141,6 @@
       "done": false,
       "createdAt": 1779990788949,
       "movedAt": 1782300251753
-    },
-    {
-      "id": "mppsk2tr5mz",
-      "projectId": "mppsk2tr1oi",
-      "col": "tasks",
-      "proj": "26006",
-      "name": "Danis Office Renovation",
-      "task": "[As-Builts] Talk to Foreman About Changes",
-      "group": "As-Builts",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1779990788943,
-      "movedAt": 1779990788943
     },
     {
       "id": "mppsk2trq62",
