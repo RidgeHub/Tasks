@@ -967,22 +967,6 @@
       "movedAt": 1781094179912
     },
     {
-      "id": "mppsk2tr7zu",
-      "projectId": "mppsk2tr1oi",
-      "col": "tasks",
-      "proj": "26006",
-      "name": "Danis Office Renovation",
-      "task": "[Design] Make Revisions",
-      "group": "Design",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1779990788947,
-      "movedAt": 1779990788947
-    },
-    {
       "id": "mppsk2trbrd",
       "projectId": "mppsk2tr1oi",
       "col": "tasks",
