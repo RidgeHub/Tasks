@@ -615,22 +615,6 @@
       "movedAt": 1781094064408
     },
     {
-      "id": "mq80weu8oam",
-      "projectId": "mq80weu7rvg",
-      "col": "tasks",
-      "proj": "26004",
-      "name": "Autozone #10787",
-      "task": "[Design] Print Design Revisions",
-      "group": "Design",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1781093192486,
-      "movedAt": 1781093192486
-    },
-    {
       "id": "mq80weu877v",
       "projectId": "mq80weu7rvg",
       "col": "done",
