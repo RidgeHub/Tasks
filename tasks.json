@@ -2388,22 +2388,6 @@
       "movedAt": 1781094402503
     },
     {
-      "id": "mp4389v3s06",
-      "projectId": "mp4389v32re",
-      "col": "tasks",
-      "proj": "26002",
-      "name": "Women's Care Center",
-      "task": "[Design] Print Design Revisions",
-      "group": "Design",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1778678458101,
-      "movedAt": 1778678458101
-    },
-    {
       "id": "mp4389v3co4",
       "projectId": "mp4389v32re",
       "col": "done",
