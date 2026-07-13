@@ -1895,22 +1895,6 @@
       "movedAt": 1782300291799
     },
     {
-      "id": "mppsahy8coi",
-      "projectId": "mppsahy8qau",
-      "col": "tasks",
-      "proj": "26008",
-      "name": "MVP Fountain Square",
-      "task": "[As-Builts] Talk to Foreman About Changes",
-      "group": "As-Builts",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1779990341984,
-      "movedAt": 1781094329160
-    },
-    {
       "id": "mppsahy8je9",
       "projectId": "mppsahy8qau",
       "col": "tasks",
