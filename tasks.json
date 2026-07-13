@@ -1385,7 +1385,7 @@
     {
       "id": "mppsahy8hra",
       "projectId": "mppsahy8qau",
-      "col": "today",
+      "col": "done",
       "proj": "26008",
       "name": "MVP Fountain Square",
       "task": "[Accubid] Create Project",
@@ -1393,10 +1393,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1779990341985,
-      "movedAt": 1782300254917
+      "movedAt": 1783951788629
     },
     {
       "id": "mppsahy8x8t",
