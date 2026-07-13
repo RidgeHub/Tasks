@@ -2310,7 +2310,7 @@
     {
       "id": "mp4389v3a0n",
       "projectId": "mp4389v32re",
-      "col": "tasks",
+      "col": "done",
       "proj": "26002",
       "name": "Women's Care Center",
       "task": "[Accubid] Estimate Clean",
@@ -2318,10 +2318,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1778678458095,
-      "movedAt": 1778678458095
+      "movedAt": 1783961118191
     },
     {
       "id": "mp4389v3oa0",
