@@ -601,7 +601,7 @@
     {
       "id": "mq80weu8niz",
       "projectId": "mq80weu7rvg",
-      "col": "week",
+      "col": "done",
       "proj": "26004",
       "name": "Autozone #10787",
       "task": "[Design] Talk to Foreman about Design Revisions",
@@ -609,10 +609,10 @@
       "priority": "",
       "due": "",
       "subtasks": [],
-      "taskDone": false,
+      "taskDone": true,
       "done": false,
       "createdAt": 1781093192483,
-      "movedAt": 1781094064408
+      "movedAt": 1783961158415
     },
     {
       "id": "mq80weu877v",
