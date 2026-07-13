@@ -2231,22 +2231,6 @@
       "movedAt": 1782300333311
     },
     {
-      "id": "mppn29382u3",
-      "projectId": "mppn2938cws",
-      "col": "tasks",
-      "proj": "26007",
-      "name": "Heartland Dental Shell Meijer Outlot Brownsburg IN",
-      "task": "[As-Builts] Talk to Foreman About Changes",
-      "group": "As-Builts",
-      "priority": "",
-      "due": "",
-      "subtasks": [],
-      "taskDone": false,
-      "done": false,
-      "createdAt": 1779981559172,
-      "movedAt": 1779981559172
-    },
-    {
       "id": "mppn2938e24",
       "projectId": "mppn2938cws",
       "col": "tasks",
